@@ -1,0 +1,9 @@
+﻿  ProiectSubmarin.cpp
+C:\GithubRepo\S3D---Submarine\ProiectSubmarin\ProiectSubmarin\Mesh.h(90,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'ProiectSubmarin.cpp')
+  
+C:\GithubRepo\S3D---Submarine\ProiectSubmarin\ProiectSubmarin\Skybox.h(168,1): warning C4102: 'std': unreferenced label
+  (compiling source file 'ProiectSubmarin.cpp')
+  
+C:\GithubRepo\S3D---Submarine\ProiectSubmarin\ProiectSubmarin\ProiectSubmarin.cpp(111,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ProiectSubmarin.vcxproj -> C:\GithubRepo\S3D---Submarine\ProiectSubmarin\x64\Debug\ProiectSubmarin.exe
